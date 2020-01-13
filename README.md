@@ -14,6 +14,6 @@ In order to run this project in your machine you first need to create a Mapbox a
 * `npm run dev` : It would run development server for our React Frontend. 
 * `npm start`   : It would run node server for our Backend.
 
-## Parcel Install
+## Install Parcel 
 This project is using Parcel as bundler, if the npm run dev doesn't run, then..
 * `npm install -g parcel-bundler`: Install Parcel
