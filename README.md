@@ -2,6 +2,9 @@
 
 The goal is to create a front-end application where the user can upload a CSV, select the Latitude and Longitude column of the CSV and then view all the points on the map.
 
+## Images Folder
+Please look for the preview of the project.
+
 ## How to use it ?
 * Upload a `.csv` file which contain dataset. The uploaded `.csv` must be according to the format specified at `data.csv` located in `server/data` directory.Apart from uploading your own dataset you can also proceed by clicking `USE PROVIDED DATA` button.
 
