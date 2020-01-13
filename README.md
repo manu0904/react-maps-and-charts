@@ -10,6 +10,8 @@ Please look for the preview of the project.
 
 ## How to run it locally ?
 In order to run this project in your machine you first need to create a Mapbox account and grab Access Token. Then you need to paste it in `map.js`. After doing it you can run app locally using three commands that are shown below.
+This project is using Parcel as bundler, in case..
+* `npm install -g parcel-bundler`: Install Parcel
 * `npm install` : It would install all the necessary packages
 * `npm run dev` : It would run development server for our React Frontend. 
 * `npm start`   : It would run node server for our Backend.
