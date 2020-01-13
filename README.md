@@ -1,5 +1,6 @@
 # react-maps-and-charts
-This application demonstrates how can we generate Interactive Maps in React. In order to render maps and charts `react-map-gl` library is used.
+
+The goal is to create a front-end application where the user can upload a CSV, select the Latitude and Longitude column of the CSV and then view all the points on the map.
 
 ## How to use it ?
 * Upload a `.csv` file which contain dataset. The uploaded `.csv` must be according to the format specified at `data.csv` located in `server/data` directory.Apart from uploading your own dataset you can also proceed by clicking `USE PROVIDED DATA` button.
